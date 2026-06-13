@@ -53,6 +53,7 @@ import celeb_asmaa from "@assets/IMG_5278_1775307003416.jpeg";
 import celeb_lella from "@assets/IMG_5305_1775307084418.jpeg";
 import celeb_amuun from "@assets/IMG_5306_1775307084418.jpeg";
 import celeb_jowhara from "@assets/IMG_5311_1775309582120.jpeg";
+import celeb_nahed from "@assets/Nahed_El_Sebai.jpeg";
 
 const WHATSAPP = "https://wa.me/201222279195";
 const SOCIAL = {
@@ -280,6 +281,7 @@ const celebrities = [
   { name: "Amuun Star",          img: celeb_amuun,    role: "Content Creator"      },
   { name: "Jowhara",             img: celeb_jowhara,  role: "Bellydancer"          },
   { name: "Amira Adeeb",         img: celeb_amira,    role: "Actress"              },
+  { name: "Nahed El Sebai",      img: celeb_nahed,    role: "Actress"              },
 ];
 
 /* ═══════════════════════════════════════
