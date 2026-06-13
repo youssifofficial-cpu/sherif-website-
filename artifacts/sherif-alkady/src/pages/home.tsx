@@ -26,7 +26,7 @@ import bridalGownImg   from "@assets/IMG_5002_1775290559884.jpeg";
 import sparkleGlamImg  from "@assets/IMG_4998_1775290559885.jpeg";
 import softGlamWavyImg from "@assets/IMG_4994_1775290559885.jpeg";
 import brideBouquetImg from "@assets/IMG_5012_1775290559885.jpeg";
-import extraEditorialImg from "@assets/IMG_5233_1775290559884.webp";
+import extraEditorialImg from "@assets/Editorial_Yellow_Floral.jpeg";
 
 /* ── Instagram (6 fresh, none repeat above) ── */
 import igGhadaCarImg       from "@assets/IMG_5276_1775306939768.jpeg";
